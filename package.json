@@ -1,0 +1,16 @@
+{
+  "name": "kirakira-dokidoki",
+  "version": "1.0.0",
+  "description": "Discord's bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axess",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv-flow": "^3.1.0",
+    "sqlite3": "^4.1.1"
+  }
+}
